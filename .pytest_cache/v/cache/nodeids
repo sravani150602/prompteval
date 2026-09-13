@@ -1,6 +1,0 @@
-[
-  "tests/test_api.py::test_baseline_regression_gate",
-  "tests/test_api.py::test_run_persists_lineage_and_metrics",
-  "tests/test_engine.py::test_composable_task_checks",
-  "tests/test_engine.py::test_exact_check_fails_for_wrong_output"
-]
